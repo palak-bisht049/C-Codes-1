@@ -1,4 +1,7 @@
 # C-Codes
-pig
-panda
-palak bisht
+#include<stdio.h>
+int main()
+{
+    printf("hello world");
+    return 0;
+}
